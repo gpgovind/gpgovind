@@ -7,8 +7,6 @@ view my details
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gpgovind" alt="gpgovind" /></a> </p>
 
-- 🔭 I’m currently working on [Hydrated-Meds](https://play.google.com/store/apps/details?id=com.gp3899govind.reminderapp)
-
 - 🌱 I’m currently learning **flutter,dart**
 
 - 📫 How to reach me **gpgovind887@gamil.com**
