@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTQ5MXYyazM2bnBndnhoN2hpeXpzc2VwdHZqN3A2enUzNDhybjN1OSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Welcome Banner"/>
+</p>
+
 # 💫 About Me:
 - 🔭 I’m currently working on **Flutter UI challenges** to improve my design and layout skills.<br>- 🤝 I’m looking to collaborate on **beautiful and responsive Flutter UI projects**.<br>- 🧠 I’m looking for help with **complex custom widgets and animation techniques in Flutter**.<br>- 🌱 I’m currently learning **Flutter animations, custom painting, and responsive design**.<br>- 💬 Ask me about **Flutter UI tricks, layout issues, and widget optimization**.<br>- ⚡ Fun fact: I enjoy turning Dribbble designs into Flutter code pixel-perfect!<br>
 
