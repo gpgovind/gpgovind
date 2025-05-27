@@ -1,7 +1,8 @@
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTQ5MXYyazM2bnBndnhoN2hpeXpzc2VwdHZqN3A2enUzNDhybjN1OSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="600"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
 </p>
+
 
 
 # 💫 About Me:
