@@ -1,15 +1,15 @@
 
 
 
-# 👋 Hi, I’m Govind
 
 <p align="center">
   <img src="./banner.svg" alt="Govind Banner" />
 </p>
 
 
-Flutter developer focused on **production-grade applications**, not demos.
 
+
+Flutter developer focused on **production-grade applications**, not demos.
 I work at the intersection of Flutter and native Android when real-world constraints demand it — offline usage, background execution, hardware integration, and system-level restrictions.
 
 ---
