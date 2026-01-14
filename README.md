@@ -1,3 +1,9 @@
+
+<p align="center">
+  <img src="./banner.svg" alt="Govind Banner" />
+</p>
+
+
 # 👋 Hi, I’m Govind
 
 Flutter developer focused on **production-grade applications**, not demos.
