@@ -1,0 +1,61 @@
+<svg width="1200" height="420" viewBox="0 0 1200 420" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#020617"/>
+    </linearGradient>
+
+    <style>
+      .title {
+        font: 700 56px system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+        fill: #ffffff;
+        letter-spacing: 2px;
+      }
+      .subtitle {
+        font: 400 22px system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+        fill: #94a3b8;
+      }
+      .icon {
+        fill: none;
+        stroke-width: 4;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        animation: draw 2.5s ease forwards;
+      }
+      @keyframes draw {
+        from {
+          stroke-dasharray: 300;
+          stroke-dashoffset: 300;
+        }
+        to {
+          stroke-dasharray: 300;
+          stroke-dashoffset: 0;
+        }
+      }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="420" fill="url(#bg)" />
+
+  <!-- Flutter icon (simplified) -->
+  <path class="icon" stroke="#60a5fa"
+        d="M260 160 L320 100 L380 160 L320 220 Z" />
+
+  <!-- Android icon (simplified) -->
+  <path class="icon" stroke="#4ade80"
+        d="M900 180
+           m-40 0
+           a40 40 0 1 0 80 0
+           a40 40 0 1 0 -80 0" />
+
+  <!-- Name -->
+  <text x="600" y="210" text-anchor="middle" class="title">
+    GOVIND
+  </text>
+
+  <!-- Subtitle -->
+  <text x="600" y="250" text-anchor="middle" class="subtitle">
+    Flutter • Android • Production-Grade Apps
+  </text>
+</svg>
